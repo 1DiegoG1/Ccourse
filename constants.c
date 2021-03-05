@@ -1,5 +1,13 @@
-const int COSTO = 100;
-const float TOTAL = 100.57;
-const char NEWLINE = '\n';
 
-#define PAPERCOST = 3;
+#include <stdio.h>
+
+#define PIZZACOST 1.5
+const NEWLINE = '\n';
+
+
+int main(){
+    float costoPizza;
+    float numberOfSlices;
+
+    costoPizza = PIZZACOST * numberOfSlices;
+}
